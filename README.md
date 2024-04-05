@@ -1,4 +1,4 @@
-# Shiny Python Templates 🌟
+# Shiny Python Templates with Docker 🌟
 
 Explore our collection of Shiny Python templates to jumpstart your interactive web applications!
 
