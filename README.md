@@ -6,7 +6,7 @@ Explore our collection of Shiny Python templates to jumpstart your interactive w
 
 This repository offers a range of templates for both newcomers and seasoned developers to create dynamic web applications using Shiny for Python.
 
-## Features 🌈
+## Features 🌟
 
 - **Diverse Templates**: A variety of templates to match your project needs.
 - **Best Practices**: Incorporates Shiny development best practices for optimal performance.
